@@ -75,7 +75,7 @@ nav ul li {
 /* Index */
 
 .index-img-cont {
-    max-height: 555px !450;
+    max-height: 495px !450;
     max-width: 600px;
     margin-top: 120px;
     margin-right: 70px;
@@ -90,6 +90,7 @@ nav ul li {
     bottom: 70px;
     box-sizing: border-box;
     width: 100%;
+    height: 100% !noestaba
 }
 
 .index-page {
